@@ -17,6 +17,8 @@
 		21CC6EBF1FBFE8DB00D15C55 /* WWDesignPatternTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC6EBE1FBFE8DB00D15C55 /* WWDesignPatternTests.m */; };
 		21CC6ECA1FBFE8DB00D15C55 /* WWDesignPatternUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC6EC91FBFE8DB00D15C55 /* WWDesignPatternUITests.m */; };
 		21CC6ED91FBFE99500D15C55 /* WWDesignPatternViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 21CC6ED81FBFE99500D15C55 /* WWDesignPatternViewController.m */; };
+		21F8BB4D20DD3D0800E95291 /* ReadMe.md in Resources */ = {isa = PBXBuildFile; fileRef = 21F8BB4C20DD3D0700E95291 /* ReadMe.md */; };
+		21F8BB5020DD3F6800E95291 /* others.md in Resources */ = {isa = PBXBuildFile; fileRef = 21F8BB4F20DD3F6800E95291 /* others.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		21CC6ECB1FBFE8DB00D15C55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21CC6ED71FBFE99500D15C55 /* WWDesignPatternViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WWDesignPatternViewController.h; sourceTree = "<group>"; };
 		21CC6ED81FBFE99500D15C55 /* WWDesignPatternViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WWDesignPatternViewController.m; sourceTree = "<group>"; };
+		21F8BB4C20DD3D0700E95291 /* ReadMe.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
+		21F8BB4F20DD3F6800E95291 /* others.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = others.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +128,8 @@
 		21CC6EA11FBFE8DB00D15C55 /* WWDesignPattern */ = {
 			isa = PBXGroup;
 			children = (
+				21F8BB4E20DD3F4300E95291 /* Others */,
+				21F8BB4B20DD3B5B00E95291 /* ReadMe */,
 				210EA6951FC06F9500A2435E /* supportingFiles */,
 				210EA6911FBFEAE200A2435E /* Singleton */,
 				21CC6ED71FBFE99500D15C55 /* WWDesignPatternViewController.h */,
@@ -156,6 +162,22 @@
 				21CC6ECB1FBFE8DB00D15C55 /* Info.plist */,
 			);
 			path = WWDesignPatternUITests;
+			sourceTree = "<group>";
+		};
+		21F8BB4B20DD3B5B00E95291 /* ReadMe */ = {
+			isa = PBXGroup;
+			children = (
+				21F8BB4C20DD3D0700E95291 /* ReadMe.md */,
+			);
+			path = ReadMe;
+			sourceTree = "<group>";
+		};
+		21F8BB4E20DD3F4300E95291 /* Others */ = {
+			isa = PBXGroup;
+			children = (
+				21F8BB4F20DD3F6800E95291 /* others.md */,
+			);
+			path = Others;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -266,6 +288,8 @@
 			files = (
 				21CC6EB21FBFE8DB00D15C55 /* LaunchScreen.storyboard in Resources */,
 				21CC6EAF1FBFE8DB00D15C55 /* Assets.xcassets in Resources */,
+				21F8BB4D20DD3D0800E95291 /* ReadMe.md in Resources */,
+				21F8BB5020DD3F6800E95291 /* others.md in Resources */,
 				21CC6EAA1FBFE8DB00D15C55 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
