@@ -42,4 +42,5 @@ wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.email 2
 ## 学习网址
 
 [git commit 报 "Changes not staged for commit:"是怎么回事?](https://segmentfault.com/q/1010000004428943/a-1020000004451719)
+[自己给自己项目提交的代码，在github的提交记录上怎么不显示我自己的图像呢？](https://segmentfault.com/q/1010000002899695)
 
