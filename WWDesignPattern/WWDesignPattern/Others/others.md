@@ -36,6 +36,7 @@ wangyongwang@tdrhedu.com
 wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.name twototwoto
 wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.email 2637405168@qq.com
 
+其实刚刚的内容如果在SourceTree中提交版本记录中查看下会比较清晰 也会找到问题所在 有点时候诸葛了。。。
 
 ```
 
