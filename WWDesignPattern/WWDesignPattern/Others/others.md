@@ -28,6 +28,14 @@ Changes not staged for commit:
 
 这次是测试提交
 
+再次修改
+wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.name
+wangyongwang@tdrhedu.com
+wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.email
+wangyongwang@tdrhedu.com
+wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.name twototwoto
+wangwang:WYWDesignPattern wangyongwangyongwang$ git config --global user.email 2637405168@qq.com
+
 
 ```
 
